@@ -1,0 +1,103 @@
+body{
+	margin: 0;
+}
+
+header{
+	padding: 1px;
+	width: 100%;
+	color: #ffffff;
+	background-color: #181818;
+	text-align: center;
+	font-variant: small-caps;
+	font-size: 120%;
+}
+
+/* ---------------------------------------------------- */
+
+.divisions{
+	height: 90vh;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	display: block;
+	opacity: 0.6;
+	margin: 0;
+}
+.div-text{
+	background: #000000;
+	padding: 2vw;
+}
+#div-one{
+	background-image: url("https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/homepage/hero_banner/2021/03_31/1.%20Huracan_EVO_RWD.jpg");
+	text-transform: uppercase;
+	color: #ffffff;
+	line-height: 1.6;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#div-two{
+	background-image: url("https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/homepage/hero_banner/2021/03_31/2.%20Sian_Roadster.jpg");
+	text-transform: uppercase;
+	color: #ffffff;
+	line-height: 1.6;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#div-three{
+	background-image: url("https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2021/03_30_urus/urus_cover.jpg");
+	text-transform: uppercase;
+	color: #ffffff;
+	line-height: 1.6;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#div-four{
+	background-image: url("https://www.lamborghini.com//sites//it-en//files//DAM//lamborghini//facelift_2019//homepage//model_choose//Homepage%20CC%20AVANZAMENTO_AVENTADOR_SVJ_1920_706.jpg");
+	text-transform: uppercase;
+	color: #ffffff;
+	line-height: 1.6;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* ---------------------------------------------------- */
+
+.sections{
+	height: 40vh;
+	margin: 0;
+}
+#sec-one{
+	height: 40vh;
+	background: #282e34;
+	text-transform: uppercase;
+	color: #ffffff;
+	line-height: 1.6;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#sec-two{
+	height: 40vh;
+	background: #f4f4f4;
+	text-transform: uppercase;
+	color: #000000;
+	line-height: 1.6;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#sec-three{
+	height: 40vh;
+	background: #282e34;
+	text-transform: uppercase;
+	color: #ffffff;
+	line-height: 1.6;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
